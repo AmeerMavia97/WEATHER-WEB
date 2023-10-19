@@ -1,0 +1,87 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  
+  .navbar {
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 64px;
+    background: #1d202c;
+    color: #f9f9f9;
+    font-family: "Poppins";
+    box-sizing: border-box;
+  }
+  .navbar-menu{
+    display: flex;
+    gap: 30px;
+    margin-right: 180px;
+    font-size: 15px;
+  }
+  
+  .navbar-title {
+    margin: 0;
+    margin-right: 650px;
+    font-size: 16px;
+    margin-left: 5px;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  
+  .nav-logo{
+    /* color: white; */
+    font-size: 30px;
+    margin-left: 80px;
+    color: skyblue;
+  }
+
+
+#user-input{
+      background-color: #1d202c;
+      margin-top: 100px;
+      padding: 8px;
+      border-radius: 25px;
+      width: 60%;
+      margin-left: 270px;
+}
+
+#bg-img{
+    background-size: 100%;
+    background-image: url(https://d3iso9mq9tb10q.cloudfront.net/magefan_blog/n/y/nyc-top-10_banner.jpg);
+        margin-top: 30px;
+        padding-top: 10px;
+        padding-bottom: 120px;
+    }
+#check-btn{
+    background-color: skyblue;
+    padding: 7px 20px 7px 20px;
+    color: white;
+    border-radius: 20px;
+}
+.main-head2{
+    font-size: 17px;
+}
+
+    .bg-div{
+    background-color: #1d202c;
+    padding: 50px;
+    }
+    .main-head{
+        color: white;
+        margin-left: 130px;
+        font-size: 20px;
+        margin-bottom: 10px;
+        font-family: 'Poppins', sans-serif;
+    }
+
+
+
+
+
+
